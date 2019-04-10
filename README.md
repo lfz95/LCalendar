@@ -33,3 +33,4 @@ calendar.init({
 ...
 ```
 调用起来非常简单，代码我后续会持续优化，如果喜欢希望赏颗星哦。
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
